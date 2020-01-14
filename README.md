@@ -1,6 +1,6 @@
 # vuex_training
 
-###Небольшая тренирова с vuex, mapGetters, mapActions, mapMutations###
+### Небольшая тренирова с vuex, mapGetters, mapActions, mapMutations
 
 ## Project setup
 ```
