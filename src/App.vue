@@ -23,7 +23,7 @@ export default {
   methods: mapActions(["fetchPosts"]),
   async mounted() {
     // this.$store.dispatch("fetchPosts");
-    // с помощью mapActions можно скоратить код и вместо dispatch обращаться к названию экшена
+    // с помощью mapActions можно сократить код и вместо dispatch обращаться к названию экшена
     // параметр, который передаем это limit
     this.fetchPosts(2);
   }
